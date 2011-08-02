@@ -10,7 +10,7 @@
 	<license>GNU General Public License version 3</license>
 	<authorEmail>emerson@webdesign.eng.br</authorEmail>
 	<authorUrl>http://fititnt.org</authorUrl>
-	<version>0.2beta</version>
+	<version>0.1beta</version>
 	<description>MOD_JSPAGEIMPORT_XML_DESCRIPTION</description>
 	<files>
 		<filename module="mod_jspageimport">mod_jspageimport.php</filename>
